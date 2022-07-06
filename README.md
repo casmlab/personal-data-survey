@@ -198,24 +198,4 @@ other attached packages:
  [5] tidyr_1.1.4     purrr_0.3.4     sjPlot_2.8.9    arsenal_3.6.3  
  [9] stargazer_5.2.2 ggplot2_3.3.5   readr_2.0.2     stringr_1.4.0  
 [13] reshape2_1.4.4  forcats_0.5.1   dplyr_1.0.7    
-
-loaded via a namespace (and not attached):
- [1] jsonlite_1.7.2    splines_4.1.0     modelr_0.1.8      datawizard_0.2.1 
- [5] assertthat_0.2.1  bayestestR_0.11.5 pillar_1.6.4      backports_1.3.0  
- [9] lattice_0.20-44   glue_1.4.2        uuid_1.0-3        digest_0.6.28    
-[13] minqa_1.2.4       colorspace_2.0-2  htmltools_0.5.2   plyr_1.8.6       
-[17] pkgconfig_2.0.3   broom_0.7.10      xtable_1.8-4      mvtnorm_1.1-3    
-[21] scales_1.1.1      tzdb_0.2.0        emmeans_1.7.0     tibble_3.1.5     
-[25] generics_0.1.1    sjlabelled_1.1.8  ellipsis_0.3.2    withr_2.4.2      
-[29] repr_1.1.3        magrittr_2.0.1    crayon_1.4.2      effectsize_0.5   
-[33] estimability_1.3  evaluate_0.14     fansi_0.5.0       nlme_3.1-152     
-[37] MASS_7.3-54       data.table_1.14.2 tools_4.1.0       hms_1.1.1        
-[41] lifecycle_1.0.1   munsell_0.5.0     prediction_0.3.14 compiler_4.1.0   
-[45] rlang_0.4.12      grid_4.1.0        nloptr_1.2.2.3    pbdZMQ_0.3-6     
-[49] IRkernel_1.2      parameters_0.15.0 base64enc_0.1-3   boot_1.3-28      
-[53] gtable_0.3.0      sjstats_0.18.1    DBI_1.1.1         sjmisc_2.8.7     
-[57] R6_2.5.1          knitr_1.36        performance_0.8.0 fastmap_1.1.0    
-[61] utf8_1.2.2        insight_0.14.5    stringi_1.7.5     IRdisplay_1.0    
-[65] Rcpp_1.0.7        vctrs_0.3.8       tidyselect_1.1.1  xfun_0.28        
-[69] coda_0.19-4   
 ```   
