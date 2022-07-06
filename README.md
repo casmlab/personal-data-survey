@@ -22,8 +22,12 @@ It was faster to do by hand in Excel than to do programmatically.
 
 # Repo structure
 
-* [notebooks](notebooks): contains Jupyter notebooks with code for prepping and analyzing data; the [prep_data_for_analysis notebook](notebooks/prep_survey_responses.ipynb) does most of the data type and recoding work. Individual analysis notebooks focus on a particular research question and often start with some serious `mutation` work to get data into the right format.
+* [notebooks](notebooks): contains Jupyter notebooks with code for prepping and analyzing data; the [prep_survey_responses notebook](notebooks/prep_survey_responses.ipynb) does most of the data type and recoding work. Individual analysis notebooks focus on a particular research question and often start with some serious `mutation` work to get data into the right format.
 * [reports](reports): contains output like tables and figures
+
+# Data
+
+Data is available through Deep Blue Data with the identifier [https://doi.org/10.7302/6vjf-av59](https://doi.org/10.7302/6vjf-av59).
 
 # Codebook
 
