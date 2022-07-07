@@ -1,5 +1,8 @@
 # personal-data-survey
 
+[![DOI](https://zenodo.org/badge/511141732.svg)](https://zenodo.org/badge/latestdoi/511141732)
+
+
 Analyzes data from surveys re: personal data
 
 We surveyed two populations:
