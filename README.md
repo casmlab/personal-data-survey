@@ -32,6 +32,8 @@ It was faster to do by hand in Excel than to do programmatically.
 
 Data is available through Deep Blue Data with the identifier [https://doi.org/10.7302/6vjf-av59](https://doi.org/10.7302/6vjf-av59).
 
+The data is also provided in the [data folder](data/) of this repo.
+
 # Codebook
 
 Here's the original mapping of variable name to question from Qualtrics. The prep notebook changes some of these variable names, relevels, and recodes dummies.
